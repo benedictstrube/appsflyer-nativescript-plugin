@@ -1,6 +1,6 @@
 {
-  "name": "nativescript-plugin-appsflyer",
-  "version": "6.5.4",
+  "name": "@enduco/nativescript-plugin-appsflyer",
+  "version": "6.6.0",
   "description": "Appsflyer SDK for NativeScript applications",
   "main": "appsflyer",
   "typings": "index.d.ts",
@@ -31,21 +31,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AppsFlyerSDK/nativescript-plugin-appsflyer.git"
+    "url": "https://github.com/benedictstrube/appsflyer-nativescript-plugin.git"
   },
   "keywords": [
     "appsflyer",
     "nativescript"
   ],
-  "author": "Appsflyer / Maxim Shoustin",
+  "author": "Appsflyer/Maxim Shoustin, adjusted by enduco",
   "license": {
     "type": "MIT",
-    "url": "https://github.com/AppsFlyerSDK/nativescript-plugin-appsflyer/blob/master/LICENSE"
+    "url": "https://github.com/benedictstrube/appsflyer-nativescript-plugin/blob/master/LICENSE"
   },
   "bugs": {
-    "url": "https://github.com/AppsFlyerSDK/nativescript-plugin-appsflyer/issues"
+    "url": "https://github.com/benedictstrube/appsflyer-nativescript-plugin/issues"
   },
-  "homepage": "https://github.com/AppsFlyerSDK/nativescript-plugin-appsflyer#readme",
+  "homepage": "https://github.com/benedictstrube/appsflyer-nativescript-plugin#readme",
   "devDependencies": {
     "@nativescript/core": ">=7.0.0",
     "@nativescript/ios": ">=7.0.0",
